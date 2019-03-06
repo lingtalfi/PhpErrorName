@@ -1,7 +1,7 @@
 <?php
 
 
-namespace PhpErrorName;
+namespace Ling\PhpErrorName;
 
 
 class PhpErrorName
