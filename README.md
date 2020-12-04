@@ -37,6 +37,10 @@ az(PhpErrorName::getErrorName(\E_NOTICE)); // string(8) "E_NOTICE"
 History Log
 ------------------
 
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2019-01-23
 
     - initial commit
